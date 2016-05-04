@@ -1,7 +1,12 @@
 {
-    "HELLO": "Hey, thanks for giving the PressReader bot a whirl! ",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "BOT": "Hey, thanks for giving the PressReader bot a whirl! Just type HELLO to get started.",
+    "HELLO": "Excellent, let's do this! Remember: I only respond to keywords that I've given you. I'm guessing that you'd like to connect with our folks in BILLING, talk to someone in customer CARE, or bring a new feature or bug to our ATTENTION. I've also got a PHOTO of our team! Type a keyword and boom - your wish is my command!",
+    "BILLING": "Right this way! Click on this email address care@pressreader.com and include your username (usually your email address) on PressReader. Let us know what is going on and we'll get back to you right away.",
+    "CARE": "We've got an entire website http://care.pressreader.com of info to get you on the right track. You can also check out tutorials in our YouTube channel https://goo.gl/sQwre1.",
+    "ATTENTION": "So, you've either had a great IDEA for PressReader, or you've found a BUG! Eep. Which one is it?",
+    "IDEA": "Cool, we love fresh thinking! We're collecting ideas for PressReader in our forum here, https://goo.gl/BZ6L4s. You can also send this to us privately, here https://goo.gl/AUlUL8.",
+    "BUG": "Alright, we're so glad that you're tipping us off about this bug. Our QA team is going to be so mad that they've missed it! Briefly outline what happened for us here - https://goo.gl/AUlUL8.",
+    "PHOTO": "Aw, we're a little shy"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
